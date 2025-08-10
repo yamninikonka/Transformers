@@ -1,0 +1,11 @@
+*._ignore*
+*.ipynb_checkpoints
+*.pyc
+*.pyo
+*.pyd   
+__pycache__
+setup.bat
+*docx
+*examples
+*.log
+
