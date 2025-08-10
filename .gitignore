@@ -1,5 +1,6 @@
 *.venv
-*._ignore*
+*._ignore.ipynb
+*._ignore.py
 *.ipynb_checkpoints
 *.pyc
 *.pyo
