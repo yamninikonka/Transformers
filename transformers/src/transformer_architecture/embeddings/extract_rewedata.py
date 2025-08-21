@@ -6,7 +6,7 @@ import pandas as pd
 import os
 
 file_abs_path = os.path.abspath(os.path.dirname(__file__))
-print(f"Absolute path of the current file: {file_abs_path}")
+# print(f"Absolute path of the current file: {file_abs_path}")
 def pdf_extract_convert_to_text():
     # 'transformers\src\transformer_architecture\embeddings\data\ReweData'
     pdf_dir = os.path.join(file_abs_path, 'data\ReweData')
