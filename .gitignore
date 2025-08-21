@@ -10,4 +10,5 @@ setup.bat
 *docx
 *examples
 *.log
-
+*.vscode
+*.excludes
